@@ -1,0 +1,6 @@
+{
+  "Name": "Document_Understanding_Test1",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
